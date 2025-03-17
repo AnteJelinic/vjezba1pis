@@ -8,5 +8,6 @@ namespace vjezba1pis
 {
     internal class NewClass
     {
+        // komentar
     }
 }
