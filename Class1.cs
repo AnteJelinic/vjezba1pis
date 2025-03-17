@@ -6,7 +6,7 @@ namespace HelloWorldApp
 {
 
     // Class declaration 
-    class Geeks
+    class Geeks2
     {
 
         // Main Method 
@@ -17,6 +17,7 @@ namespace HelloWorldApp
             // printing Hello World! 
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Staro");
             // To prevent the screen from 
             // running and closing quickly 
             Console.ReadKey();
