@@ -1,6 +1,9 @@
 ﻿// C# program to print Hello World! 
 using System;
 
+class NewClass{
+}
+
 // namespace declaration 
 namespace HelloWorldApp
 {
